@@ -16,3 +16,19 @@ These data could be use for a business plan afterward.
 Problem
 
 It is relevant to understand where are the best locations. With the market already saturated, it would be interesting to understand if there are places in the city that are underserved. To produce this research, data will be gathered on the existing competiton in the market. 
+
+
+Data
+
+The following data will be used. 
+
+    Country/City: Berlin
+    Goal: Vegan restaurants 
+
+
+
+I will use the following API:
+
+    Foursquare API: to find restaurant/venues
+    Google API: reverse geolocalisation
+
