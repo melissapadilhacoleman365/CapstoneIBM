@@ -30,5 +30,4 @@ The following data will be used.
 I will use the following API:
 
     Foursquare API: to find restaurant/venues
-    Google API: reverse geolocalisation
-
+  
